@@ -1,0 +1,2 @@
+# bufeVeriTabani
+ilişkiselVeriTabaniOrneğiTriggerCursorProcedure
